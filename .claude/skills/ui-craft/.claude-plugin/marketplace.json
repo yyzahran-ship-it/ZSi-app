@@ -1,0 +1,32 @@
+{
+  "name": "vortex-ui-craft",
+  "owner": {
+    "name": "s5uy (Vortex)",
+    "email": "thaaatym@gmail.com"
+  },
+  "metadata": {
+    "description": "Premium UI/UX generation skills for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ui-craft",
+      "source": {
+        "source": "github",
+        "owner": "s5uy",
+        "repo": "ui-craft"
+      },
+      "description": "Premium UI/UX generation skill for Claude. Produces interfaces that feel handcrafted, restrained, and production-ready.",
+      "version": "1.0.0",
+      "author": {
+        "name": "s5uy (Vortex)",
+        "email": "thaaatym@gmail.com"
+      },
+      "homepage": "https://github.com/s5uy/ui-craft",
+      "repository": "https://github.com/s5uy/ui-craft",
+      "license": "MIT",
+      "keywords": ["ui", "ux", "design", "frontend", "react", "tailwind", "nextjs", "components"],
+      "category": "design"
+    }
+  ]
+}
